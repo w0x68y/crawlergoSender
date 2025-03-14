@@ -14,6 +14,6 @@ UI依次为
 - Chrome路径
 - 自定义请求头
 - 额外的参数，如`--push-to-proxy http://127.0.0.1:2222/`等
-- 日志输出框
+- 日志输出框，在BurpSuite.jar路径下会产生 crawlergo_log.txt 详细日志
 
 ![image-20250314230518629](./assets/image-20250314230518629.png)
