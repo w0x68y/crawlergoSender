@@ -1,6 +1,8 @@
 # crawlergoSender
 
 > 所有代码均由AI生成
+>
+> 仅在 BurpSuite v2024.10 进行测试
 
 此插件实现了BurpSuite记录数据包--发送到crawlergo爬虫进行爬取链接--联动其他被动扫描器，仅为了节省中间复制header和cookies以及调用执行的时间以及补全手动点击联动被动扫描器缺乏动态爬虫覆盖而产生的插件。
 
