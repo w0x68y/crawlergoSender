@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="crawlergoSender:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/crawlergoSender_jar</output-path>
+    <root id="archive" name="crawlergoSender.jar">
+      <element id="module-output" name="crawlergoSender" />
+    </root>
+  </artifact>
+</component>
